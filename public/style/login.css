@@ -1,0 +1,29 @@
+.center-div{
+    padding-top: 10%;
+}
+
+input{
+    margin:5px;
+}
+
+span{
+    font-size: .8em;
+    color: whitesmoke;
+}
+
+.title{
+    margin: 10px;
+}
+
+form{
+    padding: 0 3em;
+}
+
+.btn{
+    margin: 5px 0;
+}
+
+.container{
+    background-color: #00CBA9;
+    border-radius: 10px;
+}
